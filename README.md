@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 ## Check out my blog! 🌼
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Cosmic JS ?](https://cennetboran.medium.com/what-is-cosmic-js-e911564dd6a4)
 - [What is vuex and state management ? ](https://cennetboran.medium.com/what-is-vuex-and-state-management-1a1f2cdd9bb9)
 - [Angular vs Vuejs ?](https://cennetboran.medium.com/angular-vs-vuejs-3472c6b9a4ce)
 - [Swagger Nedir?](https://cennetboran.medium.com/swagger-nedir-a8b99095d54d)
