@@ -38,11 +38,9 @@ Here are some ideas to get you started:
 ## Connect with Me 💬
 <br>
 <p align="left">
-  <a href="https://www.linkedin.com/in/cennet-boran/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Borann" height="30" width="30" /></a> 
 <a href="https://codepen.io/Borann" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Borann" height="30" width="30" /></a>  
 <a href="https://dev.to/cennetboran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="cennetboran" height="30" width="30" /></a>  
 <a href=https://twitter.com/CennetBoran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cennetboran" height="30" width="30" /></a>  
-
 <a href="https://www.linkedin.com/in/cennet-boran-81298b12b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cennetboran" height="30" width="30" /></a>  
 <a href="https://stackoverflow.com/users/16703716/cennet-boran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="98830341" height="30" width="30" /></a>  
 <a href="https://medium.com/@cennetboran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@cennetboran" height="30" width="30" /></a>  
